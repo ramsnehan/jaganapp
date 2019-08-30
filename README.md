@@ -1,3 +1,3 @@
-# jaganappjaganapp
+# jaganapp
 
 for Testing
